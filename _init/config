@@ -1,0 +1,12 @@
+Package: admin_fiscalyear
+Name: Fiscal Year Admin Replacement
+Description: Allow change of Fiscal Year Begin date and simplify UI
+Author: Paul Shipley
+Maintenance: Paul Shipley
+Homepage: paulshipley.id.au
+Depends: 
+InstallPath: modules/admin_fiscalyear
+Type: extension
+Filename: admin_fiscalyear
+Version: 2.4.0-1
+
