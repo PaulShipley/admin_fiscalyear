@@ -8,5 +8,5 @@ Depends:
 InstallPath: modules/admin_fiscalyear
 Type: extension
 Filename: admin_fiscalyear
-Version: 2.4.0-1
+Version: 2.4.7
 
