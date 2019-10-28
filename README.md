@@ -3,6 +3,9 @@ Fiscal Years Replacement
 
 I have created an extension module to provide an alternative Fiscal Years admin.
 
+The full description is at:
+https://paulshipley.id.au/blog/frontaccounting/fiscal-years-replacement/
+
 The module can be downloaded from:
 https://github.com/PaulShipley/admin_fiscalyear
 
