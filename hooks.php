@@ -11,14 +11,10 @@ include_once($path_to_root . "/modules/admin_fiscalyear/fiscalyears_class.php");
 
 class hooks_admin_fiscalyear extends hooks
 {
-	var $module_name = 'admin_fiscalyear';
 
-/*
-Install additional menu options provided by module
-*/
-	function install_tabs($app)
+	function __construct()
 	{
-		$app->add_application(new fiscalyear_app);
+		$this->module_name = 'import_bank_transactions';
 	}
 
 	function install_options($app)
